@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fkaneki&psig=AOvVaw361hv4Bwhbl6iXpiN8dmL9&ust=1754452080281000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICo0rrh8o4DFQAAAAAdAAAAABAE)" width="100"/>
 </div>
 <!--
 **RyukaAngga/RyukaAngga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
