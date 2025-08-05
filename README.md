@@ -1,4 +1,4 @@
- <h2>Hellow👋, I'am Ryuka</h2>
+ <h2 align="center">Hellow👋, I'am Ryuka</h2>
 
 
 <div id="header" align="center">
